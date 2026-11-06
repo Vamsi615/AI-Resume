@@ -1,0 +1,5 @@
+streamlit
+PyPDF2
+# sentenc/e-transformers
+# scikit-learn
+pandas
